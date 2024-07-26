@@ -1,0 +1,71 @@
+[
+{
+    "Question":"1.What is JavaScript",
+    "Option":["Scripting Language","Assembly Language","Compiled Language","None"],
+    "Answer":"Scripting Language",
+    "score":0,
+    "isAttempted":false,
+    "isActive":false
+},
+{
+    "Question":"2.what is react?", 
+    "Option":["A library for building user interfaces","A programming language that makes it easy to",
+    "create single-page applications with a fast runtime.",
+    "A framework for creating web apps with HTML, CSS and JS."],
+    "Answer":"A library for building user interfaces",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"3.How do you create a new React component?",
+    "Option":["npx create-react-app appname","npm install create-react-app",
+    "npx install create-react-app -g","install - l create-react-app"],
+    "Answer":"npx create-react-app appname",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"4. What is the purpose of the render() method in React?",
+    "Option":["It displays data on the screen","It handles events like clicks or form submisson",
+    "It updates the state of components when something changes","All of the above"],
+    "Answer":"It displays data on the screen",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"5. In React.js which one of the following is used to create a class for Inheritance ?",
+    "Option":["extends","inherits","prototype","class"],
+    "Answer":"extends",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"6. What is the default port number in which the application run ?",
+    "Option":["3000","2001","5000","3001"],
+    "Answer":"3000",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"7. How many elements can a valid React component return?",
+    "Option":["3","2","5","1"],
+    "Answer":"1",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"8. Which of the following is a way to handle data in React.js ?",
+    "Option":["State","Props","Context","Event Handling"],
+    "Answer":"State",
+    "score":0,
+    "isAttempted":false
+},
+{
+    "Question":"9. Which of the following is true regarding Babel ?",
+    "Option":["Compiler","Transpiler","Both of the above","None of the above"],
+    "Answer":"Both of the above",
+    "score":0,
+    "isAttempted":false
+}
+
+]
